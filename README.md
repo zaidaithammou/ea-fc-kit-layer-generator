@@ -10,7 +10,7 @@ This tool calculates pixel-level spatial gradients and hue ranges to convert 2D 
 
 | Raja Club Athletic Crest (`RCA_-layer`) | ITT Tanger Crest (`TANGER_-layer`) |
 | :---: | :---: |
-| ![Raja Club Athletic Normal Map](samples/RCA_-layer.jpg) | ![ITT Tanger Normal Map](samples/TANGER_-layer.jpg) |
+| ![Raja Club Athletic Normal Map](samples/RCA_-layer.png) | ![ITT Tanger Normal Map](samples/TANGER_-layer.png) |
 
 ---
 
